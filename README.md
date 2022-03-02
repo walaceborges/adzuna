@@ -76,7 +76,7 @@ We used the following technologies to build this website:
   <tr>
     <td align="center"><a href="https://github.com/GabrielJorge94"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/87340021?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Jorge</b></sub></a><br /><a href="https://www.betrybe.com/" title="Trybe">🥇</a></td>
     <td align="center"><a href="https://github.com/Matta-012"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/76047350?v=4" width="100px;" alt=""/><br /><sub><b>João M. Matta</b></sub></a><br /><a href="https://www.betrybe.com/" title="Trybe">🥇</a></td>
-    <td align="center"><a href="https://github.com/fullStackLucas"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQH5CIF9i_3ngw/profile-displayphoto-shrink_800_800/0/1517267892610?e=1638403200&v=beta&t=Qi9qw1yEsP3fzdxwLrM5Cby1N7uof_1i3lS_U1VIs1E" width="100px;" alt=""/><br /><sub><b>Lucas Pinheiro</b></sub></a><br /><a href="https://www.betrybe.com/" title="Trybe">🥇</a></td>
+    <td align="center"><a href="https://github.com/fullStackLucas"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86744794?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Pinheiro</b></sub></a><br /><a href="https://www.betrybe.com/" title="Trybe">🥇</a></td>
     <td align="center"><a href="https://github.com/walaceborges"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/73181252?v=4" width="100px;" alt=""/><br /><sub><b>Walace Borges</b></sub></a><br /><a href="https://www.betrybe.com/" title="Trybe">🥇</a></td>
   </tr>
 </table>
